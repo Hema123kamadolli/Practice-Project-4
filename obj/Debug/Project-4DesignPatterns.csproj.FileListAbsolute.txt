@@ -1,0 +1,7 @@
+C:\mphasis-B2\PracticeProject-4\Project-4DesignPatterns\Project-4DesignPatterns\bin\Debug\Project-4DesignPatterns.exe.config
+C:\mphasis-B2\PracticeProject-4\Project-4DesignPatterns\Project-4DesignPatterns\bin\Debug\Project-4DesignPatterns.exe
+C:\mphasis-B2\PracticeProject-4\Project-4DesignPatterns\Project-4DesignPatterns\bin\Debug\Project-4DesignPatterns.pdb
+C:\mphasis-B2\PracticeProject-4\Project-4DesignPatterns\Project-4DesignPatterns\obj\Debug\Project-4DesignPatterns.csproj.AssemblyReference.cache
+C:\mphasis-B2\PracticeProject-4\Project-4DesignPatterns\Project-4DesignPatterns\obj\Debug\Project-4DesignPatterns.csproj.CoreCompileInputs.cache
+C:\mphasis-B2\PracticeProject-4\Project-4DesignPatterns\Project-4DesignPatterns\obj\Debug\Project-4DesignPatterns.exe
+C:\mphasis-B2\PracticeProject-4\Project-4DesignPatterns\Project-4DesignPatterns\obj\Debug\Project-4DesignPatterns.pdb
